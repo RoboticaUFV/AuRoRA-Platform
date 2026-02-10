@@ -10,7 +10,7 @@ cd([directoryname,'\Aurora'])
 !mkdir tools
 !mkdir worlds
 !mkdir strats
-!mkdir side
+!mkdir sides
 
 disp('All done.')
 warndlg('Remember to delete this setup repo later!')
